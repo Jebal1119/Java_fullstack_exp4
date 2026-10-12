@@ -1,0 +1,2 @@
+Java is a programming language.
+Reading a file in Java is easy.
